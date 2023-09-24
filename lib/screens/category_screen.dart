@@ -52,6 +52,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                 style: const TextStyle(
                   fontWeight: FontWeight.w600,
                   fontSize: 20.0,
+                  color: Colors.red,
                 ),
               ),
             ],
